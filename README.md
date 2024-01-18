@@ -79,10 +79,5 @@ badge | yes | | badge string | "10"
 badge | yes | | badge object | {value: 'A', fontSize: 25, radius: 22, position:'top_left', color:'orange', backgroundColor:'blue'}
 ...rest | yes | | other props | style={{backgroundColor: "#00f"}}
 
-## Icons Made by
 
-[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
 
-## Created by
-
-Dimitry Ivanov <2@ivanoff.org.ua> # curl -A cv ivanoff.org.ua
