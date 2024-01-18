@@ -1,0 +1,27 @@
+{
+  "name": "react-native-icon-yala",
+  "version": "1.0.0",
+  "description": "Icons YALA for React Native",
+  "main": "src/index.jsx",
+  "types": "typings.d.ts",
+  "dependencies": {
+    "react-svg-main": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OctOpiDev/react-native-icon-yala.git"
+  },
+  "keywords": [
+    "React",
+    "React Native",
+    "Icons",
+    "Icon",
+    "SVG",
+    "Flags"
+  ],
+  "author": "Sergey Golovan",
+  "bugs": {
+    "url": "https://github.com/OctOpiDev/react-native-icon-yala/issues"
+  },
+  "homepage": ""
+}
