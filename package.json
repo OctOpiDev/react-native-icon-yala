@@ -1,6 +1,6 @@
 {
   "name": "@octopidev/react-native-icon-yala",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Icons YALA for React Native",
   "main": "src/index.jsx",
   "types": "typings.d.ts",
